@@ -25,8 +25,7 @@ projects:
   exclude:
     archived: false
     forks: true
-    projects:
-    # - repo-name
+    projects: https://github.com/mrgotti14/mrgotti14.github.io.git
 
 # social_media:
   # behance: your_username
@@ -51,7 +50,7 @@ topics:
     web_url: https://github.com/topics/css
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
-  - name: Web design
+  - name: Julie
 
   - name: Sass
     web_url: https://github.com/topics/sass
